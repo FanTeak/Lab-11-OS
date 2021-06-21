@@ -1,0 +1,6 @@
+[19-0-121 15:11:29]: bohdan123 windows 1
+[19-0-121 15:12:23]: user thread 1
+[19-0-121 15:23:22]: user windows 1
+[19-0-121 15:23:44]: bohdan123 linux 1
+[20-0-121 17:7:39]: user linux 1
+[20-0-121 17:9:58]: bohdan123 windows 1
